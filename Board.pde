@@ -13,7 +13,7 @@ class Board {
   void draw(){
     bArea.draw();
     mArea[0].draw();
-    mArea[1].draw();
+    mArea[1].draw();  
     iArea.draw();
   }
 }
